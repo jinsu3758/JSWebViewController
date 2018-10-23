@@ -1,0 +1,16 @@
+PODS:
+  - JSWebViewController (0.1.0)
+
+DEPENDENCIES:
+  - JSWebViewController (from `../`)
+
+EXTERNAL SOURCES:
+  JSWebViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSWebViewController: 451cf122b8ba19d128436656325be6a4210efeb4
+
+PODFILE CHECKSUM: 6e103ae817a41aaf0956c47b5d210ebee35f7a0b
+
+COCOAPODS: 1.5.3

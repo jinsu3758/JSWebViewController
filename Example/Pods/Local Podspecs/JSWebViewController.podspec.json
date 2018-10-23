@@ -1,0 +1,22 @@
+{
+  "name": "JSWebViewController",
+  "version": "0.1.0",
+  "summary": "A short description of JSWebViewController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jinsu3758/JSWebViewController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jinsu3758": "jinsu3758@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/jinsu3758/JSWebViewController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSWebViewController/Classes/**/*"
+}

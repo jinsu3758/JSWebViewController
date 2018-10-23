@@ -1,0 +1,6 @@
+framework module JSWebViewController {
+  umbrella header "JSWebViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
